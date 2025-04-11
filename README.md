@@ -67,7 +67,7 @@ Each model is evaluated using:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/Ocalak/-Predicting-Heart-Disease.git
+git clone https://github.com/Ocalak/Predicting-Heart-Disease.git
 cd -Predicting-Heart-Disease
 ```
 
