@@ -16,7 +16,7 @@ The notebook demonstrates how to:
 ## 📁 Files
 
 - `A_Guide_to_any_Classification_Problem.ipynb`: The core notebook containing the entire workflow.
-- `heart.csv`: (If included) The dataset used for predicting the presence of heart disease based on clinical features.
+- `heart.csv`:The dataset used for predicting the presence of heart disease based on clinical features.
 
 ## 📊 Dataset
 
